@@ -1,0 +1,3 @@
+// Auto-generated file: /Users/kevinguoquan/Desktop/zama备用文件/测试/Zama项目/votedapp_z/frontend/web/src/global/lib.go
+// Generated at: 2025-12-03T23:45:48.544Z
+
